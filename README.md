@@ -1,1 +1,1 @@
-Never made to-do app using html css js for the first time
+Never made TODO list using html css js for the first time
